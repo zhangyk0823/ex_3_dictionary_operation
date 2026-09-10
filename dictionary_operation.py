@@ -116,3 +116,4 @@ print(f"Average Score: {average_score}")
 print(f"Academic Status: {student['academic_status']}")
 print()
 print("=====================================")
+#（注：内容由AI生成）
